@@ -7,3 +7,17 @@
 &nbsp;
 
 <p align="center">Official Website: <a href="https://www.bbkdevelopment.com/bbk-development/ardublu">BBK Development</a></p>
+
+&nbsp;
+
+### Key Features
+-	Trim any part of the video right on your device.
+-   Cut video and create clips.
+-   Review video before process it.
+-   Mute video.
+-   Change playback speed of video.
+-   Change quality of output video.
+-   On your gallery you may access clips/videos after process.
+-   Share them anywhere you want.
+-   No watermark on output video.
+-   VClip provides premium content, yet it is ad-free.
