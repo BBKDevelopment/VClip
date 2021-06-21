@@ -21,3 +21,11 @@
 -   Share them anywhere you want.
 -   No watermark on output video.
 -   VClip provides premium content, yet it is ad-free.
+
+&nbsp;
+
+## <p align="center">Available on Stores</p> 
+
+&nbsp;
+
+[<p align="center"><img src="images/badge-black1.png" width="300"></p>](https://play.google.com/store/apps/details?id=com.BBKDevelopment.VClip)[<p align="center"><img src="images/badge-black2.png" width="300"></p>](https://appgallery.huawei.com/#/app/C104413665)
