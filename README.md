@@ -54,3 +54,15 @@ Release notes:
 Release notes:
 
 - Release version, VClip released on stores.
+
+&nbsp;
+
+## <p align="center">Privacy & Terms</p> 
+
+&nbsp;
+
+[<p align="center">Privacy Policy</p>](https://www.bbkdevelopment.com/bbk-development/vclip/privacy-policy)
+
+&nbsp;
+
+[<p align="center">Terms & Conditions</p>](https://www.bbkdevelopment.com/bbk-development/vclip/terms-and-conditions)
