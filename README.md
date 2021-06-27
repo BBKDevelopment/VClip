@@ -29,3 +29,28 @@
 &nbsp;
 
 [<p align="center"><img src="images/badge-black1.png" width="300"></p>](https://play.google.com/store/apps/details?id=com.BBKDevelopment.VClip)[<p align="center"><img src="images/badge-black2.png" width="300"></p>](https://appgallery.huawei.com/#/app/C104413665)
+
+&nbsp;
+
+## <p align="center">Versions</p> 
+
+&nbsp;
+
+<p align=right>Jun 15, 2021</p>
+<p align=left>1.0.1</p> 
+
+Release notes:
+
+- Made some changes to the user interface. 
+- Added notice text  to the "Settings" section.
+
+&nbsp;
+
+&nbsp;
+
+<p align=right>Jun 10, 2021</p>
+<p align=left>1.0.0</p>
+
+Release notes:
+
+- Release version, VClip released on stores.
