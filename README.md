@@ -36,6 +36,18 @@
 
 &nbsp;
 
+<p align=right>Jul 19, 2021</p>
+<p align=left>1.0.2</p> 
+
+Release notes:
+
+- Made some changes to the user interface. 
+- Fixed a bug on the video timeline.
+
+&nbsp;
+
+&nbsp;
+
 <p align=right>Jun 15, 2021</p>
 <p align=left>1.0.1</p> 
 
