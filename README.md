@@ -36,6 +36,31 @@
 
 &nbsp;
 
+<p align=right>Sep 30, 2021</p>
+<p align=left>1.0.4</p> 
+
+Release notes:
+
+- Fixed mismatched AppBar color.
+- Fixed the problem on the saving screen. It is no more draggable and the user must wait until the end of the process.
+
+&nbsp;
+
+&nbsp;
+
+<p align=right>Sep 29, 2021</p>
+<p align=left>1.0.3</p> 
+
+Release notes:
+
+- Updated application icon.
+- Upgraded Kotlin version.
+- Upgraded packages.
+
+&nbsp;
+
+&nbsp;
+
 <p align=right>Jul 19, 2021</p>
 <p align=left>1.0.2</p> 
 
