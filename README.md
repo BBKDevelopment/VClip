@@ -36,6 +36,21 @@
 
 &nbsp;
 
+<p align=right>Dec 11, 2021</p>
+<p align=left>1.1.0</p> 
+
+Release notes:
+
+- Added animations.
+- Changed application's logo.
+- Updated the packages.
+- Made some changes to the user interface.
+- Fixed a bug that causes a crash when there is no video on the device.
+
+&nbsp;
+
+&nbsp;
+
 <p align=right>Nov 18, 2021</p>
 <p align=left>1.0.5</p> 
 
