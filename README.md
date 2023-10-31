@@ -28,7 +28,7 @@
 
 &nbsp;
 
-[<p align="center"><img src="arts/badge-black1.png" width="300"></p>](https://play.google.com/store/apps/details?id=com.BBKDevelopment.VClip)[<p align="center"><img src="arts/badge-black2.png" width="300"></p>](https://appgallery.huawei.com/#/app/C104413665)
+[<p align="center"><img src="art/badge-black1.png" width="300"></p>](https://play.google.com/store/apps/details?id=com.BBKDevelopment.VClip)[<p align="center"><img src="art/badge-black2.png" width="300"></p>](https://appgallery.huawei.com/#/app/C104413665)
 
 &nbsp;
 
