@@ -15,7 +15,7 @@ dependencies:
   flutter_ffmpeg: ^0.4.2
   flutter_localizations:
     sdk: flutter
-  flutter_native_splash: ^2.3.5
+  flutter_native_splash: ^2.3.7
   flutter_staggered_animations: ^1.1.1
   flutter_svg: ^2.0.8
   get: ^4.6.6
